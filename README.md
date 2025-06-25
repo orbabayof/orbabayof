@@ -60,7 +60,7 @@
         </tr>
         <tr>
             <td><a href="#"><img alt="C" title="C" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-logo.png" /></a></td>
+                        src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /></a></td>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             <td><a href="#"><img alt="C#" title="C#" height="28px"
