@@ -11,7 +11,7 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/or-babayof-593665284//"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://https://www.linkedin.com/in/or-babayof-593665284/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </p>
 
 <p align="left">
