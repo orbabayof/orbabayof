@@ -71,7 +71,7 @@
             <td><a href="#"><img alt="Nvim" title="Nvim" height="28px"
                         src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" /></a></td>
             <td><a href="#"><img alt="Git" title="Git" height="28px"
-                        src="https://images.app.goo.gl/oCwHXK5eBe4qisoz5" /></a>
+                        src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" /></a>
             </td>
         </tr>
         <tr>
