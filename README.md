@@ -63,9 +63,10 @@
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             <td><a href="#"><img alt="C#" title="C#" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+        </tr>
             <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-        </tr>
+
             <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
                         src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
