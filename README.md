@@ -11,9 +11,8 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/or-babayof-593665284/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/or-babayof-593665284/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
 <p align="left">
   <a href="https://stackexchange.com/users/16082556/eyl327">
     <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
