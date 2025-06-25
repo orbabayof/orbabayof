@@ -24,16 +24,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><a href=""https://github.com/orbabayof/Strike-Xlib-window-manager-><b>Xlib window manager</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
+      <td><a href=""https://github.com/orbabayof/strikecc#><b>C compiler</b></a></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
+      <td><a href="https://github.com/orbabayof/strikepm"><b>package manager wrapper</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
+      <td><a href="https://github.com/orbabayof/Cdata_structures"><b>C Hashmap implemention</b></a></td>
     </tr>
   </tbody>
 </table>
